@@ -1,4 +1,4 @@
-![image](https://github.com/Akwardginger/3D-Graphics/assets/70280960/2213f6cb-ca1d-4560-8abf-2ef44948a305)# 3D Graphics
+# 3D Graphics
 ## Log 3D model
 
 In my 3D Graphics/3D Animation class we were tasked with creating a building in a 3D space as well as a 3D landscape to place it in. We worked with textures, lighting, and experimented with tools in the program Maya. The 3D landscape was made in Mudbox.
